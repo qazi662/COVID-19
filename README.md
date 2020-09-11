@@ -1,5 +1,6 @@
 ﻿
-
+![global](https://user-images.githubusercontent.com/56827674/92961209-519a0780-f488-11ea-8e65-2a55b9761a77.png)
+![pak](https://user-images.githubusercontent.com/56827674/92961252-62e31400-f488-11ea-8537-4bad2383e517.png)
 
 
 COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js).
