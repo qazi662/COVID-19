@@ -1,3 +1,9 @@
+COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js).
+
+The project fetches the live data from the API using Async/Await syntax. React Hooks is used.
+
+Corona Virus is, unfortunately, spreading through the entire world. What can we, as developers, do to make the situation better? We can help to spread awareness by visualizing the data. The data is fetched from the API. Cards displaying the statistics as well as Charts. This project is created using the most modern JavaScript syntax. Material UI, Charts.js, React Hooks, API data fetching, all of it in React JS!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
