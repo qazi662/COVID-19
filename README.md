@@ -1,3 +1,7 @@
+﻿
+
+
+
 COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js).
 
 The project fetches the live data from the API using Async/Await syntax. React Hooks is used.
@@ -72,3 +76,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
